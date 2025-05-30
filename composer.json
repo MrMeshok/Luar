@@ -4,7 +4,7 @@
     "type": "library",
     "version": "0.1.4",
     "require": {
-        "antlr/antlr4-php-runtime": "^0.5.1",
+        "antlr/antlr4-php-runtime": "^0.9.1",
         "ext-json": "*"
     },
     "license": "GPL-2.0-only",
